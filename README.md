@@ -84,7 +84,7 @@ Os tempos de execução das duas versões foram medidos e são apresentados abai
 - **Tempo do Quicksort Original**: 12.072210 segundos
 - **Tempo do Quicksort Otimizado**: 11.289622 segundos
 
-Utilizando o profiler Intel VTune para medir os Hotspots das duas versões, ficou claro a melhora de performance nas versões com inline asm:
+Utilizando o profiler Intel VTune para medir os Hotspots das duas versões, ficou clara a melhora de performance nas versões com inline asm:
 
 ![image](https://github.com/ThiagoNelsi/qsort-optimization/assets/52456089/152ca41d-1f0a-4982-86e2-2c3a9f885774)
 ![image](https://github.com/ThiagoNelsi/qsort-optimization/assets/52456089/28c3ce92-a917-4718-b259-9a26d40be02a)
