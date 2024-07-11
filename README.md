@@ -1,5 +1,10 @@
 ## Relatório de Desempenho de Quicksort Otimizado com Inline Assembly
 
+#### Alunos:
+- Gabriel Palmeira Luchi
+- Lucas Arruda Cazetto
+- Thiago Nelsi do Couto
+
 ### Introdução
 O objetivo deste relatório é comparar a performance de duas implementações do algoritmo Quicksort: a versão original e uma versão otimizada utilizando inline assembly nas funções de comparação e troca de elementos.
 
